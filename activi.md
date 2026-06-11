@@ -1,4 +1,4 @@
-# 👋 สวัสดีครับ/ค่ะ! ผม/ดิฉันชื่อ [นาย ชนาธิป อินสา]
+# 👋 สวัสดีครับ ผมชื่อ [นาย ชนาธิป อินสา]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=50&animation=fadeIn" />
